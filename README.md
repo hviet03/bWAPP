@@ -1,1 +1,1 @@
-# bWAPP
+# bWAPP (buggy web) configuration file
