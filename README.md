@@ -1,2 +1,2 @@
-# bWAPP (buggy web) configuration file
-(Used for deploying)
+# bWAPP (buggy web) 
+Used for self-deploying
